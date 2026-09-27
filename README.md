@@ -10,10 +10,13 @@ Este repositório armazena arquivos de configuração essenciais utilizados na c
 
 O repositório está organizado com os seguintes arquivos de configuração:
 
-*sshd_config — Configurações do servidor OpenSSH, focadas em acesso remoto e segurança.
-*dhcpd.conf — Configurações para o servidor DHCP da rede local( Isolada na VM).
-*authorized_keys — Exemplo de arquivo de chaves públicas autorizadas para autenticação SSH (as chaves reais foram substituídas por motivos de segurança pessoal).
-*interfaces — Configurações de rede das interfaces de rede.
+*sshd_config* — Configurações do servidor OpenSSH, focadas em acesso remoto e segurança.
+
+*dhcpd.conf* — Configurações para o servidor DHCP da rede local( Isolada na VM).
+
+*authorized_keys* — Exemplo de arquivo de chaves públicas autorizadas para autenticação SSH (as chaves reais foram substituídas por motivos de segurança pessoal).
+
+*interfaces* — Configurações de rede das interfaces de rede.
 
 
 ---
