@@ -1,0 +1,35 @@
+body{
+    background-color: #f8faf9;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color:#e2b13c;
+        border: solid antiquewhite ;
+
+  text-decoration: none;
+    border-radius: 10px;
+    background-color: #333333; /* <-- ADICIONE ESTA LINHA (Troque pela cor que preferir) */
+    padding: 8px 16px;         /* <-- RECOMENDADO: Cria um espaço entre o texto e a borda */
+    display: inline-block; 
+
+
+
+}
+ a:hover{
+    color: white;
+    border:solid #000000;
+cursor:copy;
+background-color:rgb(92, 171, 95);
+font-size: 15px;
+
+ animation-name: pulsar;     /* Aqui usamos o nome do @keyframes */
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+ }
+p{
+    color: #000000;
+    text-indent: 30px;
+
+    font-weight: 540;/*isto aqui, faz-se para determinar a varição de negrito da fonte*/
+}
