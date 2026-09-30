@@ -18,7 +18,7 @@ O repositório está organizado com os seguintes arquivos e diretórios de confi
 
 *interfaces* — Configurações de rede das interfaces de rede.
 
-*Redes de Computadores* — Montagem de rede(s) simulada(s) na app Cisco Packet Tracer.
+*ConexaoWirelessCabo* — Montagem de rede(s) simulada(s) na app Cisco Packet Tracer.
 
 *Guilg* — Contém os arquivos ".html" e ".css", que foi dado como uma atividade  escolar.
 
